@@ -1,0 +1,31 @@
+h1 {
+  color: #6F8FAF !important;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.imagen-estacionamiento {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.btn.boton-smartpark {
+  background-color: #6F8FAF !important;
+  color: white !important;
+  border: none !important;
+}
+
+.btn.boton-smartpark:hover {
+  background-color: #5C7894 !important;
+  color: white !important;
+}
+
+.navbar.barra-smartpark {
+  background-color: #6F8FAF !important;
+}
